@@ -16,3 +16,8 @@ h1 {
 p {
     font-style: italic;
 }
+
+#kissa {
+    height: 150px;
+    width: 150px;
+}
