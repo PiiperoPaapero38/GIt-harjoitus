@@ -6,7 +6,9 @@ body {
 }
 
 h1 {
+    text-align: center;
     color: blueviolet;
+    text-decoration: underline;
 
 }
 
