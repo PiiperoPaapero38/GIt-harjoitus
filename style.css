@@ -1,9 +1,13 @@
 body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     background-color: pink;
 }
 
 h1 {
     color: blueviolet;
+
 }
 
 p {
